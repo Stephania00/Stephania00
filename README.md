@@ -57,13 +57,37 @@
 ## 🚀 Proyectos Destacados
 
 <p align="center">
-  <a href="https://github.com/Stephania00/portafolio-react">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Stephania00&repo=portafolio-react&theme=tokyonight" />
+  <a href="https://github.com/Stephania00/centro-practicas-frontend">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Stephania00&repo=centro-practicas-frontend&theme=tokyonight" />
   </a>
+  <br/>
+  🌐 <a href="https://centro-practicas-frontend-stephania.vercel.app/" target="_blank">Ver proyecto en Vercel</a>
+</p>
+
+### 📌 Centro de Prácticas - Bienestar Universitario (Frontend)
+
+Aplicación web desarrollada en **Angular** como parte del sistema de gestión de prácticas de la **Universidad de Caldas**.  
+Este repositorio contiene exclusivamente el **frontend**, ya que el backend en .NET es institucional y no puede ser publicado.  
+
+✨ **Descripción breve:**  
+Frontend con login y registro mediante **JWT**, formularios reactivos con validaciones, estilos centralizados en **SCSS**, y arquitectura limpia siguiendo buenas prácticas modernas.  
+
+🔹 **Tecnologías utilizadas**: Angular · TypeScript · SCSS · Vercel  
+🔹 **Características principales**:  
+- Autenticación (login y registro) con almacenamiento de token en `localStorage`.  
+- Formularios con validaciones y feedback visual.  
+- Estilos en SCSS con tipografía y colores institucionales.  
+- Arquitectura modular, escalable y mantenible.  
+
+
+---
+
+<p align="center">
   <a href="https://github.com/Stephania00/landing-angular">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Stephania00&repo=landing-angular&theme=tokyonight" />
   </a>
 </p>
+
 <p align="center">
   <a href="https://github.com/Stephania00/automations-python">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Stephania00&repo=automations-python&theme=tokyonight" />
@@ -72,6 +96,7 @@
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Stephania00&repo=data-analytics-notebooks&theme=tokyonight" />
   </a>
 </p>
+
 
 ---
 
