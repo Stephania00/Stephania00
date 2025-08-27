@@ -64,9 +64,12 @@
          style="border-radius: 30px; box-shadow: 0 4px 10px rgba(0,0,0,0.15);" />
   </a>
   <br/><br/>
-  🌐 <a href="https://centro-practicas-frontend-jw4v47wgb-stephania-s-projects.vercel.app" target="_blank">Ver demo en Vercel</a>
+  🌐 <a href="https://centro-practicas-frontend-jw4v47wgb-stephania-s-projects.vercel.app" 
+         target="_blank" 
+         rel="noopener noreferrer">
+      Ver demo en Vercel
+  </a>
 </p>
-
 
 --
 
