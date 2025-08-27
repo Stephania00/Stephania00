@@ -58,11 +58,15 @@
 
 <p align="center">
   <a href="https://github.com/Stephania00/centro-practicas-frontend">
-    <img src="assets/preview.png" alt="Centro de Prácticas - Frontend" width="600" />
+    <img src="assets/preview.png" 
+         alt="Centro de Prácticas - Frontend" 
+         width="80%" 
+         style="border-radius: 30px; box-shadow: 0 4px 10px rgba(0,0,0,0.15);" />
   </a>
-  <br/>
+  <br/><br/>
   🌐 <a href="https://centro-practicas-frontend-jw4v47wgb-stephania-s-projects.vercel.app" target="_blank">Ver demo en Vercel</a>
 </p>
+
 
 --
 
