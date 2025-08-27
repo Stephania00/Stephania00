@@ -58,11 +58,13 @@
 
 <p align="center">
   <a href="https://github.com/Stephania00/centro-practicas-frontend">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Stephania00&repo=centro-practicas-frontend&theme=tokyonight" />
+    <img src="assets/preview.png" alt="Centro de Prácticas - Frontend" width="600" />
   </a>
   <br/>
-  🌐 <a href="centro-practicas-frontend-jw4v47wgb-stephania-s-projects.vercel.app</a>
+  🌐 <a href="https://centro-practicas-frontend-jw4v47wgb-stephania-s-projects.vercel.app" target="_blank">Ver demo en Vercel</a>
 </p>
+
+--
 
 ### 📌 Centro de Prácticas - Bienestar Universitario (Frontend)
 
