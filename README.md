@@ -103,9 +103,17 @@ Automatización de procesos de gestión documental que tradicionalmente dependí
 **Proyecto Cliente | Freelance**
 
 <p align="center">
-  <a href="https://github.com/Stephania00/landing-angular">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Stephania00&repo=landing-angular&theme=tokyonight" />
+  <a href="https://landing-curso-sanacion.vercel.app" target="_blank" rel="noopener noreferrer">
+    <img 
+      src="https://raw.githubusercontent.com/Stephania00/landing-curso-sanacion/main/assets/preview-landing-sanacion.png" 
+      alt="Landing Curso de Sanación - Preview" 
+      width="80%" 
+      style="border-radius: 20px; box-shadow: 0 4px 10px rgba(0,0,0,0.15);" 
+    />
   </a>
+  <br/><br/>
+  🌐 <a href="https://landing-curso-sanacion.vercel.app" target="_blank" rel="noopener noreferrer">Ver demo en Vercel</a>
+  • 📦 <a href="https://github.com/Stephania00/landing-curso-sanacion" target="_blank" rel="noopener noreferrer">Ver repositorio</a>
 </p>
 
 **🎯 Objetivo:** Landing page conversion-optimizada para promocionar curso de sanación emocional, enfocada en conectar emocionalmente con la audiencia y facilitar el proceso de inscripción.
