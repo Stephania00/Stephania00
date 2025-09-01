@@ -84,14 +84,14 @@ Proyecto de digitalización desarrollado para resolver procesos manuales inefici
 
 **⚡ Implementación Frontend:**
 - **Arquitectura:** Angular standalone con TypeScript y arquitectura modular escalable
-- **Autenticación:** Sistema JWT integrado con API .NET (desarrollada por compañero de equipo)
+- **Autenticación:** Sistema JWT integrado con API .NET (Este punto backend creación API desarrollado por compañero de equipo)
 - **UI/UX:** Implementación responsiva con Bootstrap y SCSS, siguiendo identidad visual institucional
 - **Funcionalidades:** Dashboard provisional, formularios reactivos con validaciones, gestión de estados
 
 **🎯 Impacto Esperado:**  
 Automatización de procesos de gestión documental que tradicionalmente dependían de métodos manuales, mejorando la eficiencia operativa del Centro de Prácticas.
 
-**🔹 Stack Técnico:** Angular 19 · TypeScript · Bootstrap · SCSS · JWT · Vercel  
+**🔹 Stack Técnico:** Angular 19 · TypeScript · Bootstrap · SCSS · JWT · Servidor Institucional VPN  
 **🔹 Skills Desarrolladas:** Análisis de requerimientos · Entrevistas con usuarios · Modelado de procesos · Desarrollo frontend · Trabajo interdisciplinario
 
 > **Nota:** Este repositorio contiene exclusivamente el frontend. El backend en .NET es institucional y no puede ser publicado por políticas de seguridad universitaria.
@@ -99,20 +99,29 @@ Automatización de procesos de gestión documental que tradicionalmente dependí
 
 ---
 
+### 🌸 Landing Page - Curso de Sanación Emocional
+**Proyecto Cliente | Freelance**
+
 <p align="center">
   <a href="https://github.com/Stephania00/landing-angular">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Stephania00&repo=landing-angular&theme=tokyonight" />
   </a>
 </p>
 
-<p align="center">
-  <a href="https://github.com/Stephania00/automations-python">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Stephania00&repo=automations-python&theme=tokyonight" />
-  </a>
-  <a href="https://github.com/Stephania00/data-analytics-notebooks">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Stephania00&repo=data-analytics-notebooks&theme=tokyonight" />
-  </a>
-</p>
+**🎯 Objetivo:** Landing page conversion-optimizada para promocionar curso de sanación emocional, enfocada en conectar emocionalmente con la audiencia y facilitar el proceso de inscripción.
+
+**🚀 Características principales:**
+- **Hero emocional** con CTA visible y claro orientado a conversión
+- **Metodología estructurada:** Secciones (Conexión → Fortaleza → Compasión → Autopreservación)
+- **Temario visual:** 8 sesiones organizadas en tarjetas interactivas
+- **Testimonios dinámicos:** Sistema de testimoniales (placeholder para contenido real)
+- **Pagos locales:** Integración con Nequi/Daviplata mediante QR modal
+- **Mini-agente FAQ:** Implementación de IA para responder preguntas frecuentes
+
+**🛠️ Stack Técnico:** React · Vite · TailwindCSS · Vercel  
+**🔹 Skills:** Diseño UX/UI · Optimización de conversión · Integración de APIs · Desarrollo cliente
+
+*Desarrollada inspirándose en mockups de Picto (ThemeWagon) con adaptaciones personalizadas*
 
 
 ---
