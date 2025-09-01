@@ -55,11 +55,10 @@
 ---
 
 ## 🚀 Proyectos Destacados
-
 <p align="center">
   <a href="https://github.com/Stephania00/centro-practicas-frontend">
     <img src="assets/preview.png" 
-         alt="Centro de Prácticas - Frontend" 
+         alt="Centro de Prácticas - Sistema de Gestión Digital" 
          width="80%" 
          style="border-radius: 30px; box-shadow: 0 4px 10px rgba(0,0,0,0.15);" />
   </a>
@@ -71,22 +70,31 @@
   </a>
 </p>
 
---
+### 📌 Sistema de Gestión Digital - Centro de Prácticas Universitarias
+**Universidad de Caldas | Agosto 2024 - Junio 2025 (2 semestres académicos)**
 
-### 📌 Centro de Prácticas - Bienestar Universitario (Frontend)
+**🔍 Contexto del Proyecto:**  
+Proyecto de digitalización desarrollado para resolver procesos manuales ineficientes en el Centro de Prácticas, donde la gestión de documentos se realizaba vía correo electrónico y WhatsApp, centralizándose en una sola persona.
 
-Aplicación web desarrollada en **Angular** como parte del sistema de gestión de prácticas de la **Universidad de Caldas**.  
-Este repositorio contiene exclusivamente el **frontend**, ya que el backend en .NET es institucional y no puede ser publicado.  
+**📊 Proceso de Análisis y Desarrollo:**
+- **+10 entrevistas** con diferentes dependencias universitarias para levantamiento de requerimientos
+- **Modelado de procesos** con Bizagi y creación de diagramas de flujo personalizados  
+- **Coordinación técnica** con webmaster institucional para definición de stack tecnológico
+- **Trabajo colaborativo** full-stack (Frontend Angular + Backend .NET)
 
-✨ **Descripción breve:**  
-Frontend con login y registro mediante **JWT**, formularios reactivos con validaciones, estilos centralizados en **SCSS**, y arquitectura limpia siguiendo buenas prácticas modernas.  
+**⚡ Implementación Frontend:**
+- **Arquitectura:** Angular standalone con TypeScript y arquitectura modular escalable
+- **Autenticación:** Sistema JWT integrado con API .NET (desarrollada por compañero de equipo)
+- **UI/UX:** Implementación responsiva con Bootstrap y SCSS, siguiendo identidad visual institucional
+- **Funcionalidades:** Dashboard provisional, formularios reactivos con validaciones, gestión de estados
 
-🔹 **Tecnologías utilizadas**: Angular · TypeScript · SCSS · Vercel  
-🔹 **Características principales**:  
-- Autenticación (login y registro) con almacenamiento de token en `localStorage`.  
-- Formularios con validaciones y feedback visual.  
-- Estilos en SCSS con tipografía y colores institucionales.  
-- Arquitectura modular, escalable y mantenible.  
+**🎯 Impacto Esperado:**  
+Automatización de procesos de gestión documental que tradicionalmente dependían de métodos manuales, mejorando la eficiencia operativa del Centro de Prácticas.
+
+**🔹 Stack Técnico:** Angular 19 · TypeScript · Bootstrap · SCSS · JWT · Vercel  
+**🔹 Skills Desarrolladas:** Análisis de requerimientos · Entrevistas con usuarios · Modelado de procesos · Desarrollo frontend · Trabajo interdisciplinario
+
+> **Nota:** Este repositorio contiene exclusivamente el frontend. El backend en .NET es institucional y no puede ser publicado por políticas de seguridad universitaria.
 
 
 ---
