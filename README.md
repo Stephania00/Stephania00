@@ -55,6 +55,63 @@
 ---
 
 ## 🚀 Proyectos Destacados
+
+## 🚀 Proyectos Destacados
+
+### 💼 Landing Page - Servicios de Desarrollo Web Automatizado
+**Proyecto Profesional | Servicios Freelance**
+
+<p align="center">
+  <a href="https://tu-url-deploy.vercel.app" target="_blank" rel="noopener noreferrer">
+    <img 
+      src="assets/preview-landing-servicios.png" 
+      alt="Landing Servicios - Preview" 
+      width="85%" 
+      style="border-radius: 15px; box-shadow: 0 8px 24px rgba(0,0,0,0.12); border: 1px solid rgba(255,255,255,0.1);" 
+    />
+  </a>
+  <br/><br/>
+  <a href="https://tu-url-deploy.vercel.app" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/🌐_Ver_Demo-Live-success?style=for-the-badge&logo=vercel&logoColor=white" alt="Ver Demo"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/Stephania00/landing-servicios" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/📦_Ver_Código-Repository-blue?style=for-the-badge&logo=github&logoColor=white" alt="Ver Repositorio"/>
+  </a>
+</p>
+
+#### 🎯 **Objetivo del Proyecto**
+Landing page conversion-optimizada para servicios de desarrollo web automatizado, diseñada para convertir visitantes en clientes mediante una propuesta de valor clara y paquetes estructurados.
+
+#### ⚡ **Características Técnicas Destacadas**
+- **🏗️ Arquitectura Escalable:** React + TypeScript con componentes modulares y reutilizables
+- **📱 Diseño Responsive:** Navbar profesional con menú mobile glassmorphism y micro-interacciones
+- **🎨 UX/UI Optimizada:** Hero con CTAs estratégicos, scroll suave y redirección inteligente a GitHub
+- **⚙️ Automatización Integrada:** Deploy continuo GitHub → Vercel 
+- **📊 Analytics Ready:** Configuración GA4 y métricas de conversión preparadas
+
+#### 💰 **Modelo de Negocio Implementado**
+- **Starter Package** - Landing básica profesional
+- **Smart Package** - Con IA básica y automatización
+- **Pro Max Package**  - Automatización avanzada n8n + Python
+
+#### 🛠️ **Stack Tecnológico**
+<p align="center">
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"/>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" alt="TailwindCSS"/>
+  <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" alt="Vercel"/>
+</p>
+
+#### 🔹 **Skills Desarrolladas**
+`Desarrollo Frontend Avanzado` • `Arquitectura de Componentes` • `UX/UI Design` • `Git Workflow Profesional` • `Deploy Automation` • `Business Strategy` • `Habilidades IA n8n y python`
+
+---
+
+### 📌 Sistema de Gestión Digital - Centro de Prácticas Universitarias
+**Universidad de Caldas | Agosto 2024 - Junio 2025 (2 semestres académicos)**
+
+<br>
 <p align="center">
   <a href="https://github.com/Stephania00/centro-practicas-frontend">
     <img src="assets/preview.png" 
@@ -69,9 +126,6 @@
       Ver demo en Vercel
   </a>
 </p>
-
-### 📌 Sistema de Gestión Digital - Centro de Prácticas Universitarias
-**Universidad de Caldas | Agosto 2024 - Junio 2025 (2 semestres académicos)**
 
 **🔍 Contexto del Proyecto:**  
 Proyecto de digitalización desarrollado para resolver procesos manuales ineficientes en el Centro de Prácticas, donde la gestión de documentos se realizaba vía correo electrónico y WhatsApp, centralizándose en una sola persona.
