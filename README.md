@@ -62,23 +62,14 @@
 **Proyecto Profesional | Servicios Freelance**
 
 <p align="center">
-  <a href="https://landing-servicios-ivory.vercel.app/" target="_blank" rel="noopener noreferrer">
-    <img 
-      src="https://raw.githubusercontent.com/Stephania00/landing-servicios/main/assets/preview-landing-servicios.png" 
-      alt="Landing Servicios - Preview" 
-      width="85%" 
-      style="border-radius: 15px; box-shadow: 0 8px 24px rgba(0,0,0,0.12); border: 1px solid rgba(255,255,255,0.1);" 
-    />
+  <a href="https://landing-servicios-ivory.vercel.app/" target="_blank">
+    <img src="https://raw.githubusercontent.com/Stephania00/landing-servicios/main/assets/preview-landing-servicios.png" alt="Landing Servicios Preview" width="85%" style="border-radius: 15px; box-shadow: 0 8px 24px rgba(0,0,0,0.12);" />
   </a>
   <br/><br/>
-  <a href="https://landing-servicios-ivory.vercel.app/" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/🌐_Ver_Demo-Live-success?style=for-the-badge&logo=vercel&logoColor=white" alt="Ver Demo"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://github.com/Stephania00/landing-servicios" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/📦_Ver_Código-Repository-blue?style=for-the-badge&logo=github&logoColor=white" alt="Ver Repositorio"/>
-  </a>
+  🌐 <a href="https://landing-servicios-ivory.vercel.app/" target="_blank" rel="noopener noreferrer">Ver demo en Vercel</a>
+  • 📦 <a href="https://github.com/Stephania00/landing-servicios" target="_blank" rel="noopener noreferrer">Ver repositorio</a>
 </p>
+
 
 #### 🎯 **Objetivo del Proyecto**
 Landing page conversion-optimizada para servicios de desarrollo web automatizado, diseñada para convertir visitantes en clientes mediante una propuesta de valor clara y paquetes estructurados.
@@ -91,9 +82,9 @@ Landing page conversion-optimizada para servicios de desarrollo web automatizado
 - **📊 Analytics Ready:** Configuración GA4 y métricas de conversión preparadas
 
 #### 💰 **Modelo de Negocio Implementado**
-- **Starter Package** ($299) - Landing básica profesional
-- **Smart Package** ($449) - Con IA básica y automatización
-- **Pro Max Package** ($799) - Automatización avanzada n8n + Python
+- **Starter Package** - Landing básica profesional
+- **Smart Package** - Con IA básica y automatización
+- **Pro Max Package** - Automatización avanzada n8n + Python
 
 #### 🛠️ **Stack Tecnológico**
 <p align="center">
@@ -105,7 +96,7 @@ Landing page conversion-optimizada para servicios de desarrollo web automatizado
 </p>
 
 #### 🔹 **Skills Desarrolladas**
-`Desarrollo Frontend Avanzado` • `Arquitectura de Componentes` • `UX/UI Design` • `Git Workflow Profesional` • `Deploy Automation` • `Business Strategy`
+`Desarrollo Frontend Avanzado` • `Arquitectura de Componentes` • `UX/UI Design` • `Git Workflow Profesional` • `Deploy Automation` • `Business Strategy` • `Habilidades IA N8N y Python`
 
 
 ---
