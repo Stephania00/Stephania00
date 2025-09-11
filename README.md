@@ -52,9 +52,9 @@
   <img alt="Google Sheets" src="https://img.shields.io/badge/Google%20Sheets-%2334A853.svg?style=plastic&logo=google-sheets&logoColor=white"/>
 </p>
 
+
 ---
 
-## 🚀 Proyectos Destacados
 
 ## 🚀 Proyectos Destacados
 
@@ -62,16 +62,16 @@
 **Proyecto Profesional | Servicios Freelance**
 
 <p align="center">
-  <a href="https://tu-url-deploy.vercel.app" target="_blank" rel="noopener noreferrer">
+  <a href="https://landing-servicios-ivory.vercel.app/" target="_blank" rel="noopener noreferrer">
     <img 
-      src="assets/preview-landing-servicios.png" 
+      src="https://raw.githubusercontent.com/Stephania00/landing-servicios/main/assets/preview-landing-servicios.png" 
       alt="Landing Servicios - Preview" 
       width="85%" 
       style="border-radius: 15px; box-shadow: 0 8px 24px rgba(0,0,0,0.12); border: 1px solid rgba(255,255,255,0.1);" 
     />
   </a>
   <br/><br/>
-  <a href="https://tu-url-deploy.vercel.app" target="_blank" rel="noopener noreferrer">
+  <a href="https://landing-servicios-ivory.vercel.app/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/🌐_Ver_Demo-Live-success?style=for-the-badge&logo=vercel&logoColor=white" alt="Ver Demo"/>
   </a>
   &nbsp;&nbsp;
@@ -91,22 +91,25 @@ Landing page conversion-optimizada para servicios de desarrollo web automatizado
 - **📊 Analytics Ready:** Configuración GA4 y métricas de conversión preparadas
 
 #### 💰 **Modelo de Negocio Implementado**
-- **Starter Package** - Landing básica profesional
-- **Smart Package** - Con IA básica y automatización
-- **Pro Max Package**  - Automatización avanzada n8n + Python
+- **Starter Package** ($299) - Landing básica profesional
+- **Smart Package** ($449) - Con IA básica y automatización
+- **Pro Max Package** ($799) - Automatización avanzada n8n + Python
 
 #### 🛠️ **Stack Tecnológico**
 <p align="center">
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React"/>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"/>
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" alt="TailwindCSS"/>
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" alt="Vite"/>
   <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" alt="Vercel"/>
 </p>
 
 #### 🔹 **Skills Desarrolladas**
-`Desarrollo Frontend Avanzado` • `Arquitectura de Componentes` • `UX/UI Design` • `Git Workflow Profesional` • `Deploy Automation` • `Business Strategy` • `Habilidades IA n8n y python`
+`Desarrollo Frontend Avanzado` • `Arquitectura de Componentes` • `UX/UI Design` • `Git Workflow Profesional` • `Deploy Automation` • `Business Strategy`
+
 
 ---
+
 
 ### 📌 Sistema de Gestión Digital - Centro de Prácticas Universitarias
 **Universidad de Caldas | Agosto 2024 - Junio 2025 (2 semestres académicos)**
