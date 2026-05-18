@@ -1,9 +1,9 @@
 <div align="center">
 
-<h1>Hola, soy Stephania <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1>Hi, I'm Stephania <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <a href="https://github.com/DenverCoder1/readme-typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=Desarrolladora+de+Software;Angular+%7C+Next.js+%7C+Django+%7C+FastAPI;SaaS+%26+Dashboard+Developer;Clean+Architecture+%26+Milestone-Driven">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=Software+Developer;Angular+%7C+Next.js+%7C+Django+%7C+FastAPI;SaaS+%26+Dashboard+Developer;Clean+Architecture+%26+Milestone-Driven">
 </a>
 
 <br/>
@@ -20,26 +20,28 @@
 
 ---
 
-## <picture><img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeTFsaDk1aHAxNGJidWJrbjBycjV1dDRvam1iMW04cGQ4Ync2czU4eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LMcB8XospGZO8UQq87/giphy.gif" width="50"></picture> Sobre mí
+## <picture><img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeTFsaDk1aHAxNGJidWJrbjBycjV1dDRvam1iMW04cGQ4Ync2czU4eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LMcB8XospGZO8UQq87/giphy.gif" width="50"></picture> About Me
 
 <picture>
   <img align="right" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExc213eWw5Y2Q5NWVtYnEyM3dsd3R1ajFzcHJpNXZkZzNvbmFxZnlyNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/H03PuVdwREB21ANkLX/giphy.gif" width="250">
 </picture>
 
-- 💻 Desarrolladora de Software con experiencia real en **SaaS, dashboards complejos y arquitecturas modulares**.
-- 🖥️ Stack principal: **Angular, Next.js, TypeScript, Django, FastAPI y PostgreSQL**.
-- 🏗️ He trabajado con **Clean Architecture**, arquitectura modular, componentes standalone, autenticación JWT y sistemas multi-tenant.
-- 🏥 Experiencia en proyectos de **Dashboard Médico**, Saas e integración de APIs REST documentadas con Swagger/OpenAPI.
-- 🚀 Normalmente entrego por **hitos con precio fijo** — sin microgestión, con bitácoras técnicas y documentación clara.
-- 📚 Siempre aprendiendo y aplicando lo aprendido en proyectos reales.
+- 💻 Software Developer with real experience in **SaaS, complex dashboards, and modular architectures**.
+- 🖥️ Core stack: **Angular, Next.js, TypeScript, Django, FastAPI, PostgreSQL and Python**.
+- 🏗️ I work with **Clean Architecture**, standalone components, JWT authentication, and multi-tenant systems.
+- 🏥 Experience in **healthcare dashboard** projects, SaaS platforms, and REST API integrations documented with Swagger/OpenAPI.
+- 🤖 I build and experiment with **AI agents using LangChain**, applying Spec-Driven Development and RAG pipelines locally.
+- 🚀 I deliver via **fixed-price milestones** — async work, structured technical logs, and clear documentation. No daily micromanagement.
+- 🔄 Comfortable working with **Agile methodologies** (Scrum/Kanban) in collaborative, cross-functional teams.
+- 📚 Always learning and applying new skills in real projects.
 
 <br clear="right"/>
 
 ---
 
-## 🛠️ Mis Habilidades
+## 🛠️ Skills
 
-### <picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Programming_Languages.gif?raw=true" width="50"></picture> Lenguajes de Programación
+### <picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Programming_Languages.gif?raw=true" width="50"></picture> Programming Languages
 
 <div align="center">
 
@@ -75,38 +77,48 @@
 
 </div>
 
-### <picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Software_Tools.gif?raw=true" width="50"></picture> Herramientas
+### 🤖 AI & Agents
+
+<div align="center">
+
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-Retrieval_Augmented_Generation-C8BE25?style=for-the-badge&labelColor=0d1117)
+![Spec--Driven](https://img.shields.io/badge/Spec--Driven-Agent_Development-6B7280?style=for-the-badge&labelColor=0d1117)
+
+</div>
+
+### <picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Software_Tools.gif?raw=true" width="50"></picture> Tools & Workflow
 
 <div align="center">
 
 ![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![EstructuraAI](https://img.shields.io/badge/Construyendo-EstructuraAI_SaaS-C8BE25?style=for-the-badge&logo=vercel&logoColor=white)
+![Scrum](https://img.shields.io/badge/Scrum-Agile-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 
 </div>
 
 ---
 
-## 🚀 Proyectos Destacados
+## 🚀 Featured Projects
 
-> ### 💼 Proyectos Profesionales
+> ### 💼 Professional Projects
 
-### 🏥 Dashboard Operativo — Ecosistema de Salud Digital
-**Proyecto Profesional | Healthtech | 2026**
+### 🏥 Operational Dashboard — Digital Health Ecosystem
+**Professional Project | Healthtech | 2026**
 
-> ⚠️ Repositorio privado por confidencialidad de datos médicos. Se documenta la arquitectura sin exponer código ni información de pacientes.
+> ⚠️ Private repository due to medical data confidentiality. Architecture is documented without exposing code or patient information.
 
-**🔍 Contexto:**
-Integración frontend-backend de un ecosistema de salud digital con múltiples módulos especializados (pacientes, agentes, familias, agenda, caracterización y analytics), API REST documentada con Swagger/OpenAPI y autenticación basada en roles.
+**🔍 Context:**
+Frontend-backend integration of a digital health ecosystem with multiple specialized modules (patients, agents, families, scheduling, characterization, and analytics), REST API documented with Swagger/OpenAPI, and role-based authentication.
 
-**⚡ Lo que desarrollé:**
-- Capa de servicios Angular para consumo de API REST documentada
-- Flujo de autenticación JWT con guards de protección de rutas
-- Componentes de visualización de datos (dashboards, KPIs, tablas paginadas)
-- Formularios reactivos con validaciones frontend
-- Manejo centralizado de errores HTTP y estados de carga
-- Documentación técnica de la integración
+**⚡ What I built:**
+- Angular service layer for consuming a documented REST API
+- JWT authentication flow with route protection guards
+- Data visualization components (dashboards, KPIs, paginated tables)
+- Reactive forms with frontend validations
+- Centralized HTTP error handling and loading states
+- Technical integration documentation
 
 <div align="center">
 
@@ -121,25 +133,25 @@ Integración frontend-backend de un ecosistema de salud digital con múltiples m
 
 ---
 
-### 🤖 EstructuraAI — SaaS en Desarrollo Activo
-**Proyecto Colaborativo | SaaS | 2025 – presente**
+### 🤖 EstructuraAI — SaaS in Active Development
+**Collaborative Project | SaaS | 2025 – present**
 
 <p align="center">
-  🌐 <a href="https://estructura-ai-frontend.vercel.app/login" target="_blank" rel="noopener noreferrer">Ver demo en Vercel</a>
+  🌐 <a href="https://estructura-ai-frontend.vercel.app/login" target="_blank" rel="noopener noreferrer">View demo on Vercel</a>
 </p>
 
-> Repositorio privado — producto en construcción activa hacia lanzamiento como SaaS.
+> Private repository — product in active development toward SaaS launch.
 
-**🔍 Contexto:**
-Plataforma SaaS multi-tenant con dashboard operativo, onboarding wizard, sistema de billing, módulo WhatsApp y gestión de conversaciones. Arquitectura con feature gating por plan y autenticación propia sobre Supabase.
+**🔍 Context:**
+Multi-tenant SaaS platform with operational dashboard, onboarding wizard, billing system, WhatsApp module, and conversation management. Architecture with plan-based feature gating and custom authentication over Supabase.
 
-**⚡ Lo que desarrollé:**
-- Arquitectura frontend con Next.js App Router + React 19 + TypeScript strict
-- Sistema de autenticación multi-tenant con contexto global y guards de rutas
-- Dashboard con billing, uso y planes (trial / emprendedor / business / enterprise)
-- Onboarding wizard con persistencia en localStorage
-- Módulo de notificaciones y base de conocimiento con conexión a backend real
-- Feature flags dinámicos por plan desde la API
+**⚡ What I built:**
+- Frontend architecture with Next.js App Router + React 19 + strict TypeScript
+- Multi-tenant authentication system with global context and route guards
+- Dashboard with billing, usage, and plans (trial / emprendedor / business / enterprise)
+- Onboarding wizard with localStorage persistence
+- Notifications module and knowledge base connected to a real backend
+- Dynamic feature flags per plan from the API
 
 <div align="center">
 
@@ -154,26 +166,26 @@ Plataforma SaaS multi-tenant con dashboard operativo, onboarding wizard, sistema
 
 ---
 
-> ### 🌱 Otros Proyectos
+> ### 🌱 Other Projects
 
-### 💼 Landing Page - Servicios de Desarrollo Web Automatizado
-**Proyecto Profesional | Servicios Freelance**
+### 💼 Landing Page - Web Development Services
+**Professional Project | Freelance**
 
 <p align="center">
   <a href="https://landing-servicios-ivory.vercel.app/" target="_blank">
     <img src="https://raw.githubusercontent.com/Stephania00/landing-servicios/main/assets/preview-landing-servicios.png" alt="Landing Servicios Preview" width="85%" style="border-radius: 15px; box-shadow: 0 8px 24px rgba(0,0,0,0.12);" />
   </a>
   <br/><br/>
-  🌐 <a href="https://landing-servicios-ivory.vercel.app/" target="_blank" rel="noopener noreferrer">Ver demo en Vercel</a>
-  • 📦 <a href="https://github.com/Stephania00/landing-servicios" target="_blank" rel="noopener noreferrer">Ver repositorio</a>
+  🌐 <a href="https://landing-servicios-ivory.vercel.app/" target="_blank" rel="noopener noreferrer">View demo on Vercel</a>
+  • 📦 <a href="https://github.com/Stephania00/landing-servicios" target="_blank" rel="noopener noreferrer">View repository</a>
 </p>
 
-**⚡ Características Técnicas Destacadas**
-- **🏗️ Arquitectura Escalable:** React + TypeScript con componentes modulares y reutilizables
-- **📱 Diseño Responsive:** Navbar profesional con menú mobile glassmorphism y micro-interacciones
-- **🎨 UX/UI Optimizada:** Hero con CTAs estratégicos, scroll suave y redirección inteligente a GitHub
-- **⚙️ Automatización Integrada:** Deploy continuo GitHub → Vercel
-- **📊 Analytics Ready:** Configuración GA4 y métricas de conversión preparadas
+**⚡ Technical Highlights**
+- **🏗️ Scalable Architecture:** React + TypeScript with modular, reusable components
+- **📱 Responsive Design:** Professional navbar with mobile glassmorphism menu and micro-interactions
+- **🎨 Optimized UX/UI:** Hero with strategic CTAs, smooth scroll, and smart GitHub redirection
+- **⚙️ Integrated Automation:** Continuous deployment GitHub → Vercel
+- **📊 Analytics Ready:** GA4 configuration and conversion metrics prepared
 
 <div align="center">
 
@@ -187,21 +199,21 @@ Plataforma SaaS multi-tenant con dashboard operativo, onboarding wizard, sistema
 
 ---
 
-### 📌 Sistema de Gestión Digital - Centro de Prácticas Universitarias
-**Universidad de Caldas | Agosto 2024 - Junio 2025**
+### 📌 Digital Management System - University Internship Center
+**Universidad de Caldas | August 2024 - June 2025**
 
 <p align="center">
-  🌐 <a href="https://centro-practicas-frontend-jw4v47wgb-stephania-s-projects.vercel.app" target="_blank" rel="noopener noreferrer">Ver demo en Vercel</a>
+  🌐 <a href="https://centro-practicas-frontend-jw4v47wgb-stephania-s-projects.vercel.app" target="_blank" rel="noopener noreferrer">View demo on Vercel</a>
 </p>
 
-**🔍 Contexto:**
-Digitalización de procesos manuales del Centro de Prácticas universitario. La gestión de documentos se realizaba vía correo y WhatsApp; este sistema la centraliza en una plataforma web.
+**🔍 Context:**
+Digitalization of manual processes at the university's Internship Center. Document management was handled via email and WhatsApp; this system centralizes it into a web platform.
 
-**⚡ Implementación Frontend:**
-- Angular standalone con TypeScript y arquitectura modular escalable
-- Sistema JWT integrado con API .NET institucional
-- Dashboard, formularios reactivos con validaciones y gestión de estados
-- +10 entrevistas con dependencias universitarias para levantamiento de requerimientos
+**⚡ Frontend Implementation:**
+- Angular standalone with TypeScript and scalable modular architecture
+- JWT authentication integrated with institutional .NET API
+- Dashboard, reactive forms with validations, and state management
+- +10 interviews with university departments for requirements gathering
 
 <div align="center">
 
@@ -212,23 +224,23 @@ Digitalización de procesos manuales del Centro de Prácticas universitario. La 
 
 </div>
 
-> **Nota:** Repositorio contiene exclusivamente el frontend. Backend en .NET es institucional y no puede ser publicado.
+> **Note:** This repository contains the frontend only. The .NET backend is institutional and cannot be published due to security policies.
 
 ---
 
-### 🌸 Landing Page - Curso de Sanación Emocional
-**Proyecto Cliente | Freelance**
+### 🌸 Landing Page - Emotional Healing Course
+**Client Project | Freelance**
 
 <p align="center">
   <a href="https://landing-curso-sanacion.vercel.app" target="_blank" rel="noopener noreferrer">
     <img src="https://raw.githubusercontent.com/Stephania00/landing-curso-sanacion/main/assets/preview-landing-sanacion.png" alt="Landing Curso de Sanación - Preview" width="80%" style="border-radius: 20px; box-shadow: 0 4px 10px rgba(0,0,0,0.15);" />
   </a>
   <br/><br/>
-  🌐 <a href="https://landing-curso-sanacion.vercel.app" target="_blank" rel="noopener noreferrer">Ver demo en Vercel</a>
-  • 📦 <a href="https://github.com/Stephania00/landing-curso-sanacion" target="_blank" rel="noopener noreferrer">Ver repositorio</a>
+  🌐 <a href="https://landing-curso-sanacion.vercel.app" target="_blank" rel="noopener noreferrer">View demo on Vercel</a>
+  • 📦 <a href="https://github.com/Stephania00/landing-curso-sanacion" target="_blank" rel="noopener noreferrer">View repository</a>
 </p>
 
-**🚀 Características:** Hero emocional con CTA · Temario en 8 sesiones interactivas · Integración Nequi/Daviplata · Mini-agente FAQ con IA
+**🚀 Features:** Emotional hero section with CTA · 8-session interactive curriculum · Nequi/Daviplata payment integration · AI-powered FAQ mini-agent
 
 <div align="center">
 
@@ -241,7 +253,7 @@ Digitalización de procesos manuales del Centro de Prácticas universitario. La 
 
 ---
 
-## <picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Connect-with-me.gif?raw=true" width="100"></picture> Conecta conmigo
+## <picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Connect-with-me.gif?raw=true" width="100"></picture> Connect with Me
 
 <div align="center">
 
@@ -257,12 +269,12 @@ Digitalización de procesos manuales del Centro de Prácticas universitario. La 
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Stephania00&show_icons=true&count_private=true&locale=es&theme=tokyonight&hide_border=true" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Stephania00&show_icons=true&count_private=true&locale=en&theme=tokyonight&hide_border=true" height="180"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Stephania00&langs_count=6&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=Stephania00&theme=tokyonight&hide_border=true&locale=es" height="180"/>
+<img src="https://streak-stats.demolab.com?user=Stephania00&theme=tokyonight&hide_border=true&locale=en" height="180"/>
 
 </div>
 
