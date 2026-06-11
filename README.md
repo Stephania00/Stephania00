@@ -118,7 +118,9 @@ Frontend-backend integration of a digital health ecosystem with multiple special
 - Centralized HTTP error handling and loading states
 - Technical integration documentation
 
-<div align="center">
+<p align="center">
+  🌐 <a href="https://zianoa.com/auth/login" target="_blank" rel="noopener noreferrer">View live app</a>
+</p>
 
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
