@@ -3,13 +3,13 @@
 <h1>Hi, I'm Stephania <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <a href="https://github.com/DenverCoder1/readme-typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=Software+Developer;Angular+%7C+Next.js+%7C+Django+%7C+FastAPI;SaaS+%26+Dashboard+Developer;Clean+Architecture+%26+Milestone-Driven">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=Full+Stack+Software+Developer;Next.js+%7C+TypeScript+%7C+FastAPI;SaaS+Architecture+%26+DDD;RAG+Pipelines+%26+AI+Agents">
 </a>
 
 <br/>
 
 <!-- Currently building -->
-<img src="https://img.shields.io/badge/🚀%20Currently%20Building-EstructuraAI%20SaaS-%23C8BE25?style=for-the-badge&labelColor=0d1117"/>
+<img src="https://img.shields.io/badge/🚀%20Currently%20Building-Acervo%20·%20AI%20Compliance%20SaaS-%23C8BE25?style=for-the-badge&labelColor=0d1117"/>
 
 <br/><br/>
 
@@ -26,14 +26,12 @@
   <img align="right" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExc213eWw5Y2Q5NWVtYnEyM3dsd3R1ajFzcHJpNXZkZzNvbmFxZnlyNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/H03PuVdwREB21ANkLX/giphy.gif" width="250">
 </picture>
 
-- 💻 Software Developer with real experience in **SaaS, complex dashboards, and modular architectures**.
-- 🖥️ Core stack: **Angular, Next.js, TypeScript, Django, FastAPI, PostgreSQL and Python**.
-- 🏗️ I work with **Clean Architecture**, standalone components, JWT authentication, and multi-tenant systems.
-- 🏥 Experience in **healthcare dashboard** projects, SaaS platforms, and REST API integrations documented with Swagger/OpenAPI.
-- 🤖 I build and experiment with **AI agents using LangChain**, applying Spec-Driven Development and RAG pipelines locally.
-- 🚀 I deliver via **fixed-price milestones** — async work, structured technical logs, and clear documentation. No daily micromanagement.
-- 🔄 Comfortable working with **Agile methodologies** (Scrum/Kanban) in collaborative, cross-functional teams.
-- 📚 Always learning and applying new skills in real projects.
+- 💻 Full Stack Software Developer specialized in **SaaS architecture, Domain-Driven Design (DDD), and scalable backend infrastructure**.
+- 🖥️ Core stack: **TypeScript, Angular, Next.js, Python (FastAPI/Django), PostgreSQL, and Supabase**.
+- 🏗️ I build systems with **Clean Architecture** — multi-tenant platforms, JWT auth flows, and modular frontend design.
+- 🤖 I ship **RAG pipelines and AI agent automation tools** using LangChain and WhatsApp Cloud API in production.
+- 🧠 Philosophy and Letters degree (highest honors) with formal training in analytic logic — this is how I think about architecture, not a soft credential.
+- 📐 Spec-driven development with a multi-agent harness (Leader / Implementer / Reviewer) — architecture decisions and task contracts documented before implementation.
 
 <br clear="right"/>
 
